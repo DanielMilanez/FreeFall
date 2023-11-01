@@ -17,8 +17,11 @@
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"o_cam","order":4,"path":"objects/o_cam/o_cam.yy",},
     {"name":"s_Duck","order":1,"path":"sprites/s_Duck/s_Duck.yy",},
     {"name":"o_CloudGenerator","order":1,"path":"objects/o_CloudGenerator/o_CloudGenerator.yy",},
+    {"name":"o_Predio","order":3,"path":"objects/o_Predio/o_Predio.yy",},
     {"name":"o_Cloud","order":2,"path":"objects/o_Cloud/o_Cloud.yy",},
+    {"name":"s_Predio","order":2,"path":"sprites/s_Predio/s_Predio.yy",},
   ],
 }

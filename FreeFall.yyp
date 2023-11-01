@@ -35,11 +35,14 @@
     "IDEVersion": "2023.8.2.108",
   },
   "resources": [
+    {"id":{"name":"o_cam","path":"objects/o_cam/o_cam.yy",},},
     {"id":{"name":"s_Duck","path":"sprites/s_Duck/s_Duck.yy",},},
     {"id":{"name":"o_CloudGenerator","path":"objects/o_CloudGenerator/o_CloudGenerator.yy",},},
     {"id":{"name":"o_Duck","path":"objects/o_Duck/o_Duck.yy",},},
+    {"id":{"name":"o_Predio","path":"objects/o_Predio/o_Predio.yy",},},
     {"id":{"name":"CloudTileset","path":"sprites/CloudTileset/CloudTileset.yy",},},
     {"id":{"name":"o_Cloud","path":"objects/o_Cloud/o_Cloud.yy",},},
+    {"id":{"name":"s_Predio","path":"sprites/s_Predio/s_Predio.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
