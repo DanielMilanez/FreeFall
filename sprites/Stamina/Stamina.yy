@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "s_Predio",
-  "bbox_bottom": 190,
+  "name": "Stamina",
+  "bbox_bottom": 2,
   "bbox_left": 0,
-  "bbox_right": 119,
+  "bbox_right": 57,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,17 +13,17 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5cedec86-c570-48d1-8dfc-1eb189db3d0b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"79d1e334-ac47-4a7b-8f24-2678daf5e83b",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 191,
+  "height": 3,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4386195e-6f36-4da8-afff-1c96a34ae207","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"cb04f80d-5f84-4d3e-b0d2-a0aff01e0fd0","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 4,
+  "origin": 3,
   "parent": {
     "name": "Assets (temp)",
     "path": "folders/Sprites/Assets (temp).yy",
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "s_Predio",
+    "name": "Stamina",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,13 +54,13 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5cedec86-c570-48d1-8dfc-1eb189db3d0b","path":"sprites/s_Predio/s_Predio.yy",},},},"Disabled":false,"id":"4c056010-6eb7-4509-be8b-fd134c7553d3","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"79d1e334-ac47-4a7b-8f24-2678daf5e83b","path":"sprites/Stamina/Stamina.yy",},},},"Disabled":false,"id":"ec16c6ac-a30d-4caa-bd74-93115c348b4d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
     "volume": 1.0,
-    "xorigin": 60,
-    "yorigin": 95,
+    "xorigin": 0,
+    "yorigin": 1,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 120,
+  "width": 58,
 }

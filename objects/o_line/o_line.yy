@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "o_cloud",
+  "name": "o_line",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "CloudTileset",
-    "path": "sprites/CloudTileset/CloudTileset.yy",
+    "name": "s_line",
+    "path": "sprites/s_line/s_line.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "s_Predio",
-  "bbox_bottom": 190,
+  "name": "Life",
+  "bbox_bottom": 2,
   "bbox_left": 0,
-  "bbox_right": 119,
+  "bbox_right": 57,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,17 +13,17 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5cedec86-c570-48d1-8dfc-1eb189db3d0b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fe8ebeb8-3267-4589-b9c3-cb449c3d7ce0",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 191,
+  "height": 3,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4386195e-6f36-4da8-afff-1c96a34ae207","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f34cea25-e7e7-4e23-9f36-6503d3d690c1","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 4,
+  "origin": 3,
   "parent": {
     "name": "Assets (temp)",
     "path": "folders/Sprites/Assets (temp).yy",
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "s_Predio",
+    "name": "Life",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,13 +54,13 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5cedec86-c570-48d1-8dfc-1eb189db3d0b","path":"sprites/s_Predio/s_Predio.yy",},},},"Disabled":false,"id":"4c056010-6eb7-4509-be8b-fd134c7553d3","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"fe8ebeb8-3267-4589-b9c3-cb449c3d7ce0","path":"sprites/Life/Life.yy",},},},"Disabled":false,"id":"5e106a15-6d12-403c-a1b6-9b3fb51f625b","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
     "volume": 1.0,
-    "xorigin": 60,
-    "yorigin": 95,
+    "xorigin": 0,
+    "yorigin": 1,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 120,
+  "width": 58,
 }

@@ -1,4 +1,4 @@
-y -= .3;
+y -= 8;
 
 if(y < -100){
 	instance_destroy(id);
