@@ -4,3 +4,5 @@ vsp = 0;
 spd = 0;
 max_spd = 6;
 dir = 0;
+
+target_angle = 0;
